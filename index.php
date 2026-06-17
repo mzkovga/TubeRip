@@ -205,19 +205,9 @@ nav{
     </div>
 
     <div class="screenshot">
-
-        <!-- Reemplaza esto por una captura real -->
-
         <div class="placeholder">
-   
-                <img src="img/screenshot.png" alt="TubeRip">
-
+             <img src="img/screenshot.png" alt="TubeRip">
         </div>
-
-        <!-- Ejemplo:
-        <img src="screenshot.png" alt="TubeRip">
-        -->
-
     </div>
 
 </section>
